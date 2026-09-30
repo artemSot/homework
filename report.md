@@ -25,7 +25,7 @@
 
 ## 6. GitHub Pages
 - Создан репозиторий: homework
-- Загружены файлы index.html report.md
+- Загружены файлы index.html, report.md
 - Включён GitHub Pages: Settings → Pages → Branch: `main` → `/root`
 - Ссылка на страницу: https://artemSot.github.io/homework/
 - Ссылка на репозиторий: https://github.com/artemSot/homework
